@@ -1,9 +1,7 @@
 📋 User Management Application
 A modern, responsive web application for managing user data with full CRUD (Create, Read, Update, Delete) operations, built with React.js and Vite.
 
-https://img.shields.io/badge/React-18.2.0-blue
-https://img.shields.io/badge/Vite-4.4.5-purple
-https://img.shields.io/badge/API-JSONPlaceholder-green
+ 
 
 ✨ Features
 🔧 Core Functionality
@@ -193,36 +191,7 @@ Hover effects and smooth transitions
 
 Modify App.css to customize the appearance.
 
-🐛 Troubleshooting
-Common Issues
-1. Data not persisting
-
-Check if localStorage is enabled in browser
-
-Verify no browser extensions are blocking storage
-
-2. API errors
-
-Check internet connection
-
-Verify JSONPlaceholder API status
-
-Check browser console for detailed errors
-
-3. Form validation issues
-
-Ensure all required fields are filled
-
-Check email format is valid
-
-Browser Support
-Chrome (recommended)
-
-Firefox
-
-Safari
-
-Edge
+ 
 
 🤝 Contributing
 Fork the repository
